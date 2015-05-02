@@ -1,0 +1,27 @@
+F:\vstudioProject\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.exe.config
+F:\vstudioProject\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.exe
+F:\vstudioProject\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.pdb
+F:\vstudioProject\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.Properties.Resources.resources
+F:\vstudioProject\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.csproj.GenerateResource.Cache
+F:\vstudioProject\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.exe
+F:\vstudioProject\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.pdb
+F:\vstudioProject\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.csprojResolveAssemblyReference.cache
+F:\vstudioProject\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.Form1.resources
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.exe.config
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.exe
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.pdb
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.exe
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.pdb
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.csprojResolveAssemblyReference.cache
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.Form1.resources
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.Properties.Resources.resources
+C:\Users\Rafflesia\Downloads\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.csproj.GenerateResource.Cache
+E:\recent importent\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.exe.config
+E:\recent importent\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.exe
+E:\recent importent\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.pdb
+E:\recent importent\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.exe
+E:\recent importent\DraggblePanels\DraggblePanels\bin\Debug\DraggblePanels.pdb
+E:\recent importent\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.csprojResolveAssemblyReference.cache
+E:\recent importent\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.Form1.resources
+E:\recent importent\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.Properties.Resources.resources
+E:\recent importent\DraggblePanels\DraggblePanels\obj\Debug\DraggblePanels.csproj.GenerateResource.Cache
